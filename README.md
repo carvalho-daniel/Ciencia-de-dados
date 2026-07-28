@@ -1,3 +1,3 @@
 # Ciencia-de-dados
 
-# Trabalhos relacionados a mateira de ciência de dados
+### Trabalhos relacionados a materia de ciência de dados
